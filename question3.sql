@@ -4,7 +4,7 @@ CREATE TABLE cities (
     state VARCHAR(100),
     
 );
-INSERT INTO cities (id, name, state, population) VALUES
+INSERT INTO cities (id, name, state) VALUES
     (1, 'Bengaluru', 'KA'),
     (2, 'Mysore', 'KA'),
     (3, 'Delhi', 'DL'),
